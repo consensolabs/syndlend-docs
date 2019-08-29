@@ -5,6 +5,11 @@
 
 ## resources
 
-* [SyndLend resources](resources/untitled-1.md)
-* [Road map](resources/untitled.md)
+* [SyndLend resources](resources/resources.md)
+* [Road map](resources/roadmap.md)
+
+## development
+
+* [Deployment](development/deployment.md)
+* [SyndLend APIs](development/syndlend-apis.md)
 

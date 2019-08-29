@@ -52,4 +52,3 @@ The loan syndication CorDapp is responsible for syndicating the loan by providin
 
 
 
-
