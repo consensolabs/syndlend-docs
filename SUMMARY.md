@@ -1,10 +1,10 @@
 # Table of contents
 
 * [About SyndLend](README.md)
-* [SyndLend - Whitepaper](untitled.md)
+* [SyndLend - Whitepaper](whitepaper.md)
 
 ## resources
 
-* [Untitled](resources/untitled-1.md)
+* [SyndLend resources](resources/untitled-1.md)
 * [Road map](resources/untitled.md)
 
