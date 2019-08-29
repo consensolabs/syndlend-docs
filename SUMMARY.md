@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About SyndLend](README.md)
-* [Untitled](untitled.md)
+* [SyndLend - Whitepaper](untitled.md)
 
 ## resources
 
