@@ -6,7 +6,7 @@ description: Collection of the tools developed for SyndLend
 
 ## SyndLend Core
 
-Core software of SyndLend which can be deployed by any entity involved in the loan syndication marketplace.  It is hosted in a private repository. Contact us at [info@consensolabs.com](mailto:info@consensolabs.com?subject=SyndLend%20trial) for demo application.
+Core software of SyndLend which can be deployed by any entity involved in the loan syndication marketplace. It is hosted in a private repository. Contact us at [info@consensolabs.com](mailto:info@consensolabs.com?subject=SyndLend%20trial) for demo application.
 
 {% hint style="info" %}
 This software is a collection of all the CorDapps needed to accommodate all the phases of loan syndication.
@@ -49,6 +49,4 @@ git clone https://github.com/consensolabs/syndlend-devops
 ## SyndLend loan syndication CorDapp
 
 The loan syndication CorDapp is responsible for syndicating the loan by providing a trade desk for loan requests and loan proposals. It is hosted in a private repository. Contact us at [info@consensolabs.com](mailto:info@consensolabs.com?subject=SyndLend%20trial) for demo application.
-
-
 

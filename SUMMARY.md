@@ -5,7 +5,7 @@
 
 ## resources
 
-* [SyndLend resources](resources/untitled-1.md)
+* [SyndLend resources](resources/resources.md)
 
 ## development
 
