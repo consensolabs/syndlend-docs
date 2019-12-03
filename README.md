@@ -22,6 +22,12 @@ Integration of the token system and instant verification through smart contracts
 {% endtab %}
 {% endtabs %}
 
+## Architecture
+
+SyndLend is architected in such a way that the participants, namely, loan borrowers, lenders, agents, and arranging banks share and communicate deal information on a need to know basis by creating private transactions.
+
+![](.gitbook/assets/3731872a6cddad86f3fd37ea2badf080.png)
+
 ## Implementation Phases
 
 {% tabs %}
